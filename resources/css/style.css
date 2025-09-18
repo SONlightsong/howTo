@@ -1,0 +1,23 @@
+*{
+   background-color:white; 
+}
+h1 {
+   font-size 2rem;
+   color: #ae3deb;
+   text-align: center;
+
+}
+h2{
+   font-size: 1.5rem;
+   color: rgb(255, 144, 203);
+   
+}
+h3 {
+   font-size: 1.3rem;
+   color: rgb(72, 187, 233)
+}
+a {
+   background-color: rgb(255, 144, 203);
+   color: white;
+   text-decoration: none;
+}
